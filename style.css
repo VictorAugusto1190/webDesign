@@ -129,7 +129,7 @@ section {
   width: 100%;
   height: 1010px;
   gap: 40px 40px;
-  justify-content: center;
+  padding-left: 100px;
 }
 .blocos div {
   display: flex;
