@@ -130,10 +130,13 @@ section {
   height: 1010px;
   justify-content: space-between;
   padding: 0px 100px;
+  margin-bottom: 100px;
 }
 .blocos div {
   display: flex;
   border: 1px solid black;
-  width: 600px;
+  width: 635px;
   height: 310px;
+  border-radius: 45px;
+  box-shadow: 0px 7px black;
 }
