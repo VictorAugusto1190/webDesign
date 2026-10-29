@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Space Grostek", sans-serif;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  height: 58px;
+  margin-top: 60px;
+  margin-bottom: 70px;
+  gap: 209px;
+  justify-content: space-between;
+}
+
+header img {
+  display: flex;
+  margin: 0px 0px 0px 100px;
+}
+h1 img {
+  height: 36px;
+}
+section {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  margin: 0px 100px 0px 0px;
+}
+.request {
+  display: flex;
+  width: 231px;
+  height: 68px;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+}
+
+.txtFone {
+  display: flex;
+  width: 100%;
+  height: 515px;
+  text-align: center;
+  gap: 108px;
+  margin-bottom: 70px;
+}
+
+.txtFone section {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 100px;
+  margin-bottom: 34px;
+  text-align: start;
+  align-items: start;
+  width: 531px;
+  height: 481px;
+}
+.txtFone section h1 {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 60px;
+}
+.txtFone section p {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+}
+.txtFone img {
+  width: 600px;
+  height: 515px;
+}
+
+.txtFone a {
+  display: flex;
+  text-decoration: none;
+  color: white;
+  width: 264px;
+  height: 68px;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 20px;
+}
+.empresas {
+  display: flex;
+  width: 100%;
+  height: 48px;
+  justify-content: center;
+  gap: 95px;
+}
