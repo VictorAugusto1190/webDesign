@@ -47,12 +47,12 @@ section {
   text-align: center;
   gap: 108px;
   margin-bottom: 70px;
+  padding: 0px 100px;
 }
 
 .txtFone section {
   display: flex;
   flex-wrap: wrap;
-  margin-left: 100px;
   margin-bottom: 34px;
   text-align: start;
   align-items: start;
@@ -90,9 +90,9 @@ section {
   display: flex;
   width: 100%;
   height: 48px;
-  gap: 95px;
+  justify-content: space-between;
   margin-bottom: 140px;
-  padding-left: 100px;
+  padding: 0px 100px;
 }
 
 .services {
@@ -128,8 +128,8 @@ section {
   flex-wrap: wrap;
   width: 100%;
   height: 1010px;
-  gap: 40px 40px;
-  padding-left: 100px;
+  justify-content: space-between;
+  padding: 0px 100px;
 }
 .blocos div {
   display: flex;
